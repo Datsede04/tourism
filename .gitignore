@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+src/assets
+advanced-css-course-master/
 /.pnp
 .pnp.js
 
