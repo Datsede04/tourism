@@ -1,0 +1,13 @@
+.notfound{
+  background-color: $color-grey-light;  
+  height: 100vh;
+  
+  &__message{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    color: $color-black;
+    transform: translate(-50%,-50%);
+  }
+  
+}

@@ -1,0 +1,24 @@
+.aboutus{
+
+    // padding: 15rem 0rem;
+    background-color: $color-grey-light;
+    
+    &__top{
+        height: 110vh;
+        text-align: center;
+        background-size: cover;
+    }
+
+    &__des{
+        width: 80%;
+        font-size: $default-fout-size;
+    
+    }
+}
+
+.staff{
+    margin-top: -10rem;
+    margin-bottom: 5rem;
+    height: 100vh;   
+    background-color: $color-primary-light;
+}
