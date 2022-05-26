@@ -1,0 +1,41 @@
+{
+    "card":{
+    "title":"Snow Adventure",
+    "featur1":"5 day tours",
+    "featur2":"Up to 15 people",
+    "featur3":"3 tour guides",
+    "featur4":"Sleep in provided tent",
+    "featur5 ":"Difficultsy: Hard",
+    "priceMessage":"Only",
+    "price": "$833",
+    "picture": "card__picture--3",
+    "headingSpan":"card__heading-span--3",
+    "backSideNumber":  "card__side--back-3"
+    },
+    "card":{
+    "title":"Snow Adventure",
+    "featur1":"5 day tours",
+    "featur2":"Up to 15 people",
+    "featur3":"3 tour guides",
+    "featur4":"Sleep in provided tent",
+    "featur5 ":"Difficultsy: Hard",
+    "priceMessage":"Only",
+    "price": "$833",
+    "picture": "card__picture--3",
+    "headingSpan":"card__heading-span--3",
+    "backSideNumber":  "card__side--back-3"
+    },
+    "card":{
+    "title":"Snow Adventure",
+    "featur1":"5 day tours",
+    "featur2":"Up to 15 people",
+    "featur3":"3 tour guides",
+    "featur4":"Sleep in provided tent",
+    "featur5 ":"Difficultsy: Hard",
+    "priceMessage":"Only",
+    "price": "$833",
+    "picture": "card__picture--3",
+    "headingSpan":"card__heading-span--3",
+    "backSideNumber":  "card__side--back-3"
+    }
+}

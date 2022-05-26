@@ -17,6 +17,9 @@
             background-color: $color-white;
         }
 
+        &--frontOnly{
+            background-color: $color-white;
+        }
         &--back{
             position: absolute;
             top: 0;

@@ -50,7 +50,7 @@ const Tour = () => {
                   />
       </div>
       <div className="u-center-text u-margin-top-medium">
-         <Button color="btn--green" name="Discover all tours"/>
+         <a href="/alltourse" className="btn btn--green">Discover all tours</a>
       </div>            
     </section>
   )

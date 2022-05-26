@@ -6,6 +6,9 @@ import Feature from '../components/Feature/Feature';
 import Tour from '../components/Tour/Tour';
 import Testimonial from '../components/Testimonial/Testimonial';
 import Booking from '../components/Booking/Booking';
+import Slideshow from "../components/SlideShow/SlideShow"
+import Ourpartner from '../components/OurPartner/Ourpartner';
+import Contactus from '../components/ContactUs/ContactUs';
 
 const LandingPage = () => {
   return (
@@ -16,6 +19,9 @@ const LandingPage = () => {
         <Tour/>
         <Testimonial/>
         <Booking/>
+        <Slideshow/>
+        {/* <Ourpartner/> */}
+        <Contactus/>
       </>
   )
 }

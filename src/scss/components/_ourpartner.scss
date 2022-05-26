@@ -1,0 +1,14 @@
+.ourpartners{
+
+    &__pictures{
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        &-p{
+             position: absolute;
+             height: 20rem;
+             width: 30rem;
+        }
+    }
+}

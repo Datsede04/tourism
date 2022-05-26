@@ -7,6 +7,8 @@ import Company from './pages/Company';
 import NotFound from './pages/NotFound';
 import Contactus from './pages/Contactus';
 import Terms from './pages/Terms';
+import AllTours from "./pages/AllTours";
+import Detailed from './pages/Detailed.js';
 
 
 function App() {
@@ -19,6 +21,8 @@ function App() {
           <Route path='/aboutus' element={<Company/>} exact></Route>
           <Route path='/contact' element={<Contactus/>} exact></Route>
           <Route path='/term' element={<Terms/>} exact></Route>
+          <Route path='/alltourse' element={<AllTours/>} exact></Route>
+          <Route path='/detailed' element={<Detailed/>} exact></Route>
           <Route path='*' element={<NotFound/>}></Route>
         </Routes>
       <Footer/>
